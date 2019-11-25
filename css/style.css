@@ -1,0 +1,42 @@
+body {
+  color: black;
+  font-family: sans-serif;
+  margin: 5px;
+}
+
+h1,h2 {
+  text-align: center;
+}
+
+h1{
+  font-size: 5em;
+}
+
+img{
+  display: flex;
+  padding: 10px;
+
+}
+
+.block1 {
+  background-color: grey;
+}
+
+.block2 {
+   background-color: grey;
+   max-height: 10vh;
+ }
+
+.block3 {
+  background-color: grey;
+  color:white;
+}
+
+
+
+ol{
+  list-style: circle ;
+  padding: 10px;
+margin-bottom: 10%;
+justify-content: space-evenly;
+}
